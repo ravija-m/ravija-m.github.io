@@ -1,5 +1,5 @@
 ---
-layout: defaultx
+layout: default
 title: "COMP6080"
 permalink: /comp6080
 ---
@@ -18,7 +18,7 @@ Here are some popular mini-games that you can try re-creating with React.js
 3. [Snake Game](https://codepen.io/anh194/pen/LwVbew)
 4. [Sliding Puzzle Game](https://codepen.io/unindented/pen/QNWdRQ)
 
-### Weekly Tutorials
+### Weekly Tutorials 
 
 **Week 1:**   
 Slides: //todo  
