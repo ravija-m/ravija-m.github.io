@@ -21,5 +21,6 @@ Here are some popular mini-games that you can try re-creating with React.js
 ### Weekly Tutorials
 
 **Week 1:**   
-Slides: //todo  
+Slides:  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUUnNlAxzcyj6XGX69tHj3YhyFQdxcJdSwSQWpPDwTJCWNVPAqeVSLixlJxXNB0SH-7e1tHhX0axEY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 Recording: //todo  
