@@ -29,3 +29,8 @@ Slides:
 **Week 2:**  
 Slides:  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMO_-vST7gkdm8PcGlyDjMWsXk9et91b36-iy6cH-V9gSmi99Qz8yCjFSgUbq4LhMgsL0EDSQC461Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
+
+**Week 3:**
+Slides:    
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmonsWYDISB2JB0vzWgmR-Y6T6wBeFPBjlDBl6ntigw1CCWJEYWfL_-iz86sOytg9KkVrzoxwzw5VD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+
