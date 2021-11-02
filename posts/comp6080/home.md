@@ -44,4 +44,8 @@ Slides:
 
 **Week 7:**   
 Slides:  
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGJdYl40mRhUUA_AS0MZ1Wj6KhRV8gPU9AmGh3y4NYn0vW2D0J36yNIXApoV_MAHW7K8IEhd2wOM_t/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGJdYl40mRhUUA_AS0MZ1Wj6KhRV8gPU9AmGh3y4NYn0vW2D0J36yNIXApoV_MAHW7K8IEhd2wOM_t/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
+
+**Week 8:**  
+Slides:  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQe6fkKy0vVCWBdUOx66tJYVCW5AbQq3MPqgiTJJSzVjNQumjL1r2ZQbuDvGsfaxh0WiHcd0mYeK6J4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
