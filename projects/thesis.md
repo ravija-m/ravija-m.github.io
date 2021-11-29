@@ -32,16 +32,11 @@ There's a full [report](https://drive.google.com/file/d/11QQbEJHkhoSAiykp7OfeOrp
 <div id="music-container"></div>
 
 <style>
-
-    /* p {
-        margin: 200px;
-    } */
-
     html,
     body {
         height: 100%;
         /* for touch screen */
-        touch-action: none; 
+        /* touch-action: none;  */
     }
 
     body {
