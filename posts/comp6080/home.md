@@ -10,7 +10,11 @@ permalink: /comp6080
 ### Useful websites and tools
 1. [CSS flexbox holy grail](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 2. [Photopea](https://www.photopea.com/) - An image editing website that might be helpful when measuring height and widths of images in pixels
-3. [Image Colour Picker](https://imagecolorpicker.com/en) - A website to find hex/rgb values of colours
+3. [Image Colour Picker](https://imagecolorpicker.com/en) - A website to find hex/rgb values of colours  
+
+### Readings
+1. [MDN SVG Docs](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/svg)  
+
 
 ### React.js Final Exam Practise
 Here are some popular mini-games that you can try re-creating with React.js
