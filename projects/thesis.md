@@ -40,7 +40,7 @@ There's a full [report](https://drive.google.com/file/d/11QQbEJHkhoSAiykp7OfeOrp
     }
 
     body {
-        /* overflow: hidden; */
+        overflow: hidden;
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
