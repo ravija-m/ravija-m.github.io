@@ -40,7 +40,7 @@ There's a full [report](https://drive.google.com/file/d/11QQbEJHkhoSAiykp7OfeOrp
     }
 
     body {
-        overflow: hidden;
+        /* overflow: hidden; */
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
@@ -206,7 +206,7 @@ There's a full [report](https://drive.google.com/file/d/11QQbEJHkhoSAiykp7OfeOrp
     }
 
     function playSpin(yes) {
-    ospin.style.animationPlayState = (yes?'running':'paused');
+        ospin.style.animationPlayState = (yes?'running':'paused');
     }
 
     var sX, sY, nX, nY, desX = 0,
@@ -216,17 +216,17 @@ There's a full [report](https://drive.google.com/file/d/11QQbEJHkhoSAiykp7OfeOrp
 
     // auto spin
     if (autoRotate) {
-    var animationName = (rotateSpeed > 0 ? 'spin' : 'spinRevert');
-    ospin.style.animation = `${animationName} ${Math.abs(rotateSpeed)}s infinite linear`;
+        var animationName = (rotateSpeed > 0 ? 'spin' : 'spinRevert');
+        ospin.style.animation = `${animationName} ${Math.abs(rotateSpeed)}s infinite linear`;
     }
 
     // add background music
     if (bgMusicURL) {
-    document.getElementById('music-container').innerHTML += `
-    <audio src="${bgMusicURL}" ${bgMusicControls? 'controls': ''} autoplay loop>    
-    <p>If you are reading this, it is because your browser does not support the audio element.</p>
-    </audio>
-    `;
+        document.getElementById('music-container').innerHTML += `
+        <audio src="${bgMusicURL}" ${bgMusicControls? 'controls': ''} autoplay loop>    
+        <p>If you are reading this, it is because your browser does not support the audio element.</p>
+        </audio>
+        `;
     }
 
     // setup events
@@ -268,12 +268,12 @@ There's a full [report](https://drive.google.com/file/d/11QQbEJHkhoSAiykp7OfeOrp
     return false;
     };
 
-    document.onmousewheel = function(e) {
-    e = e || window.event;
-    var d = e.wheelDelta / 20 || -e.detail;
-    radius += d;
-    init(1);
-    };
+    // document.onmousewheel = function(e) {
+    //     e = e || window.event;
+    //     var d = e.wheelDelta / 20 || -e.detail;
+    //     radius += d;
+    //     init(1);
+    // };
 
 </script>
 
