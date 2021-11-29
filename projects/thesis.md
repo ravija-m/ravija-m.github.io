@@ -33,23 +33,27 @@ There's a full [report](https://drive.google.com/file/d/11QQbEJHkhoSAiykp7OfeOrp
 
 <style>
 
+    /* p {
+        margin: 200px;
+    } */
+
     html,
     body {
-    height: 100%;
-    /* for touch screen */
-    touch-action: none; 
+        height: 100%;
+        /* for touch screen */
+        touch-action: none; 
     }
 
     body {
-    /* overflow: hidden; */
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    flex-direction: column;
-    -webkit-perspective: 1000px;
-            perspective: 1000px;
-    -webkit-transform-style: preserve-3d;
-            transform-style: preserve-3d;
+        overflow: hidden;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        flex-direction: column;
+        -webkit-perspective: 1000px;
+                perspective: 1000px;
+        -webkit-transform-style: preserve-3d;
+                transform-style: preserve-3d;
     }
 
     #drag-container, #spin-container {
@@ -87,13 +91,14 @@ There's a full [report](https://drive.google.com/file/d/11QQbEJHkhoSAiykp7OfeOrp
     }
 
     #drag-container p {
-    font-family: Serif;
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    -webkit-transform: translate(-50%,-50%) rotateX(90deg);
-            transform: translate(-50%,-50%) rotateX(90deg);
-    color: #fff;
+        margin-top: 10%;
+        font-family: Serif;
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        -webkit-transform: translate(-50%,-50%) rotateX(90deg);
+                transform: translate(-50%,-50%) rotateX(90deg);
+        color: #fff;
     }
 
     #ground {
