@@ -60,17 +60,12 @@ permalink: /projects/thesis
         min-height: 100vh;
     }
 
-    @media only screen and (max-width: 600px){
+    @media only screen and (max-width: 768px) {
         img {
-            height: 400px;
+            height: 350px;
         }
     }
 
-    @media only screen and (max-width: 400px){
-        img {
-            height: 300px;
-        }
-    }
 </style>
 
 
