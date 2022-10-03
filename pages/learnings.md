@@ -3,5 +3,4 @@ I spent ~3 months studying for the AWS Solutions Architect Certification. As a c
 I made some [chapter wise notes](https://1drv.ms/u/s!Ahp5HtEUEN_mgT1YcpqROAZIQsWi) during the process:)
 
 ## Docker
-
-
+Coming soon....
