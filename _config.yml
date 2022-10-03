@@ -1,9 +1,25 @@
-remote_theme: pages-themes/hacker@v0.2.0
+title: "ravija-maheshwari"
+tagline: "This is tagline"
+description: "This is description"
+github_username: ravija-maheshwari
+baseurl: ""
+url: "https://ravija-maheshwari.github.io"
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-gem "github-pages", group: :jekyll_plugins
-permalink: pretty
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-title: ravija
-description: Software Engineer
+sass:
+  style: compressed
 
+highlighter: rouge
+
+header_pages:
+  - index.md
+  - projects.md
+  - learnings.md
+  - resume.md
+
+# set the size of the text to 'large' or 'small', default is small
+font-size: small
