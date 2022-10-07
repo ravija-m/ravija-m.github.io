@@ -6,8 +6,10 @@
 <span style="color:yellow">Experience</span>
 
 # Rokt - Software Engineer `(Jan 2022 - Current)`
-    • Automated the process of resource creation by creating software templates. 
-      This improves developer efficiency significantly.
+    • Enhancing developer efficicency by automating the process of resource creation 
+      creating software templates.
+    • Improving incident management at Rokt by implementing a sync tool to mandate 
+      a minimal set of OpsGenie settings for on-call users. 
     • Added Datadog metrics to track performace for Rokt's Widget and Mobile APIs
 
 # UNSW - Casual Academic `(Feb 2021 - Dec 2021)`
