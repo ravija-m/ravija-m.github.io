@@ -2,7 +2,7 @@
 
 # Bachelor of Software Engineering (Honours) - University of New South Wales, Sydney  `(Feb 2018 -January 2022)`
     • WAM: 80 , Graduated with First Class Honours
-y protecting services
+
 <span style="color:yellow">Experience</span>
 
 # Rokt - Software Engineer `(Jan 2022 - April 2024)`
@@ -10,10 +10,12 @@ y protecting services
       whilst ensuring feature parity and performing traffic migration thereby 
       providing better scalability
     • Conceptualised, designed and led development of JWT based data-integrity
-      into the API workflow thereb from potential denial-of-service attacks
+      into the API workflow thereby protecting services from potential 
+      denial-of-service attacks
 
 # MailPlus - Software Developer Intern `(Sept 2020 - March 2021)`
-    • Re-designed and developed the customer-facing Ticketing System to allow for creation of tickets while improving page latency by 2 seconds
+    • Re-designed and developed the customer-facing Ticketing System to allow 
+      for creation of tickets while improving page latency by 2 seconds
     • Worked on improving automation for the invoicing process by writing scheduled scripts
 
 # UNSW - Casual Academic `(Feb 2021 - Dec 2021)`
