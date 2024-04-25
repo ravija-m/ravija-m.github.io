@@ -5,21 +5,17 @@
 
 <span style="color:yellow">Experience</span>
 
-# Rokt - Software Engineer `(Jan 2022 - Current)`
-    • Enhancing developer efficicency by automating the process of resource creation 
-      creating software templates.
-    • Improving incident management at Rokt by implementing a sync tool to mandate 
-      a minimal set of OpsGenie settings for on-call users. 
-    • Added Datadog metrics to track performace for Rokt's Widget and Mobile APIs
+# Rokt - Software Engineer `(Jan 2022 - April 2024)`
+    • Decoupled the process of customer conversions into a new micro-service, whilst ensuring feature parity and performing traffic migration thereby providing better scalability
+    • Conceptualised, designed and led development of JWT based data-integrity into the API workflow thereby protecting services from potential denial-of-service attacks
+
+# MailPlus - Software Developer Intern `(Sept 2020 - March 2021)`
+    • Re-designed and developed the customer-facing Ticketing System to allow for creation of tickets while improving page latency by 2 seconds
+    • Worked on improving automation for the invoicing process by writing scheduled scripts
 
 # UNSW - Casual Academic `(Feb 2021 - Dec 2021)`
     • Tutoring COMP6080 - web front-end programming to a class of 20 university students
     • Responsible for answering forum questions and marking assignments
-
-# MailPlus - Software Developer Intern `(Sept 2020 - March 2021)`
-    • Re-designed and developed the existing customer facing Ticketing System to allow for creation of  
-      tickets via a customer number while also improving page latency
-    • Worked on improving automation for the invoicing process by writing scheduled scripts
 
 <span style="color:yellow">Projects</span>
 
@@ -35,10 +31,10 @@
 
 <span style="color:yellow">Technical Skills</span>
 ```
-• Java, C, Python
-• Web Dev - Node.js, React.js, TypeScript
-• AWS Cloud Services 
-• Docker
+• Java, C#, Python
+• Web dev – Node.js, React.js
+• Git, Buildkite (CI/CD), Datadog (Monitoring), AWS (Cloud), Docker
+• Platform - Kubernetes (beginner level)
 ```
 
 <span style="color:yellow">Awards & Certifications</span> 

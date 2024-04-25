@@ -8,4 +8,4 @@ detail_image: assets/logo.png
 
 ---
 
-I'm a (recently graduated) software engineer currently working in the Ecommerce team at [Rokt](https://www.rokt.com/).
+I'm a Software Engineer currently working in the Ecommerce team at [Rokt](https://www.rokt.com/)
